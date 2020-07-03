@@ -9,7 +9,7 @@ Implemented Machine Learning models including Classification, Ensemble Learning,
 <hr>
 
 ## Introduction & Scope
-**Link** : https://www.kaggle.com/jpacse/datasets-for-churn-telecom*
+**Link** : https://www.kaggle.com/jpacse/datasets-for-churn-telecom
 
 **Description** :  Telecommunication companies face a problem of churning of their customers for other companies. In this dataset,we look at different scenarios in which customers are most likely to leave their current company. 
     
@@ -20,11 +20,11 @@ Implemented Machine Learning models including Classification, Ensemble Learning,
 * Preprocessing: Preprocess data for our machine learning models
 * Data Visualization
 * Apply ML Classification Models:
-  1. KNN Classifier
-  2. Logistic Regression
-  3. LinearSVC
-  4. Kernalized SVC (linear, rbf, poly)
-  5. DecisionTree
+    1. KNN Classifier
+    2. Logistic Regression
+    3. LinearSVC
+    4. Kernalized SVC (linear, rbf, poly)
+    5. DecisionTree
 * GridSearchCV for best parameters
 * Cross-Validaiton to find average training and test scores
 * Best Classifier with best parameters
